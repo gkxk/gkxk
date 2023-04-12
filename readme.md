@@ -15,6 +15,12 @@ It is prefered that you call me "gkxk"(randomly generated id code), cause I set 
 | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
 | [bilibili-analysis-tool](https://github.com/gkxk/bilibili-analysis-tool) | I offer bilibili data as service, anyone can use it to do their own analysis<br>![](https://img.shields.io/github/stars/gkxk/bilibili-analysis-tool?style=flat-square&labelColor=343b41) |
 
+
+# Static works
+<img src="https://www.geckoboard.com/uploads/Sales-YTD-dashboard-example-1efebb.png" width="30%"></img> <img src="https://cloud.githubusercontent.com/assets/4307137/10105290/2a183f3a-63ae-11e5-9380-50d9f6d8afd6.png" width="30%"></img> <img src="https://www.splunk.com/content/dam/splunk-blogs/images/en_us/2021/04/dash_ga_healthcare.jpg" width="30%"></img>
+
+checkout full works on [my blog](https://gkxk.github.io/2023/03/03/public/products/#2-2-1-analysis-results)
+
 # Badge
 [![](https://github-readme-stats.vercel.app/api?username=gkxk&count_private=true&theme=city_lights&bg_color=333333&title_color=00a4db&text_color=cccccc&border_color=cccccc)](https://github.com/gkxk)
 [![](https://www.codewars.com/users/sxlgkxk/badges/large)](https://www.codewars.com/users/sxlgkxk)
