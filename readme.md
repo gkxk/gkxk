@@ -18,7 +18,7 @@ It is prefered that you call me "gkxk"(randomly generated id code), cause I set 
 
 
 # Static works
-<img src="https://www.geckoboard.com/uploads/Sales-YTD-dashboard-example-1efebb.png" width="30%"></img> <img src="https://cloud.githubusercontent.com/assets/4307137/10105290/2a183f3a-63ae-11e5-9380-50d9f6d8afd6.png" width="30%"></img> <img src="https://www.splunk.com/content/dam/splunk-blogs/images/en_us/2021/04/dash_ga_healthcare.jpg" width="30%"></img>
+<img src="https://www.geckoboard.com/uploads/Sales-YTD-dashboard-example-1efebb.png" width="30%"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/bilibili_data_placeholder.png" width="30%"></img> <img src="https://www.splunk.com/content/dam/splunk-blogs/images/en_us/2021/04/dash_ga_healthcare.jpg" width="30%"></img>
 
 checkout full works on [my blog](https://gkxk.github.io/2023/03/03/public/products/#2-2-1-analysis-results)
 
