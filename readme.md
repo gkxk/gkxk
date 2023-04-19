@@ -18,9 +18,9 @@ It is prefered that you call me "gkxk"(randomly generated id code), cause I set 
 
 
 # Static works
-<img src="https://www.geckoboard.com/uploads/Sales-YTD-dashboard-example-1efebb.png" width="30%"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/bilibili_data_placeholder.png" width="30%"></img> <img src="https://www.splunk.com/content/dam/splunk-blogs/images/en_us/2021/04/dash_ga_healthcare.jpg" width="30%"></img>
+<img src="https://www.geckoboard.com/uploads/Sales-YTD-dashboard-example-1efebb.png" width="30%"></img> <img src="https://flowingdata.com/wp-content/uploads/2022/09/data-design.png" width="30%"></img> <img src="https://www.splunk.com/content/dam/splunk-blogs/images/en_us/2021/04/dash_ga_healthcare.jpg" width="30%"></img>
 
-checkout full works on [my blog](https://gkxk.github.io/2023/03/03/public/products/#2-2-1-analysis-results)
+check [my blog](https://gkxk.github.io/2023/04/19/public/analysis%20gallery) for full gallery
 
 # Badge
 [![](https://github-readme-stats.vercel.app/api?username=gkxk&count_private=true&theme=city_lights&bg_color=333333&title_color=00a4db&text_color=cccccc&border_color=cccccc)](https://github.com/gkxk)
