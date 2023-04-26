@@ -22,7 +22,7 @@ It is prefered that you call me "gkxk"(randomly generated id code), cause I set 
 check [my blog](https://gkxk.github.io/2023/04/19/public/analysis%20gallery) for full gallery
 
 # Badge
-[![](https://github-readme-stats.vercel.app/api?username=gkxk&count_private=true&theme=city_lights&bg_color=333333&title_color=00a4db&text_color=cccccc&border_color=cccccc)](https://github.com/gkxk)
+[![](https://readme-stats.clckblog.space/api?username=gkxk&count_private=true&theme=city_lights&bg_color=333333&title_color=00a4db&text_color=cccccc&border_color=cccccc)](https://github.com/gkxk)
 <!-- [![](https://www.codewars.com/users/sxlgkxk/badges/large)](https://www.codewars.com/users/sxlgkxk) -->
 
 # Contact
