@@ -11,8 +11,8 @@ It is prefered that you call me "gkxk"(randomly generated id code), cause I set 
 
 
 # Repos
-| repo                                                                     | description                                                                  |
-| ------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
+| repo                                                   | description                                                                                                                                                                     |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [bilibili_data](https://github.com/gkxk/bilibili_data) | I offer bilibili data as service, anyone can use it to do their own analysis<br>![](https://img.shields.io/github/stars/gkxk/bilibili_data?style=flat-square&labelColor=343b41) |
 
 
@@ -25,8 +25,8 @@ check [my blog](https://gkxk.github.io/2023/04/19/public/analysis%20gallery) for
 [![](https://readme-stats.clckblog.space/api?username=gkxk&count_private=true&theme=city_lights&bg_color=333333&title_color=00a4db&text_color=cccccc&border_color=cccccc)](https://github.com/gkxk)
 <!-- [![](https://www.codewars.com/users/sxlgkxk/badges/large)](https://www.codewars.com/users/sxlgkxk) -->
 
-# Contact
+<!-- # Contact
 - [telegram](https://t.me/sxlgkxk) is recommended
-- [email](mailto:sxlgkxk@gmail.com) is ok too
+- [email](mailto:sxlgkxk@gmail.com) is ok too -->
 
 
