@@ -16,10 +16,10 @@ It is prefered that you call me "gkxk"(randomly generated id code), cause I set 
 | [bilibili](https://github.com/gkxk/bilibili) | analysis projects about bilibili<br>![](https://img.shields.io/github/stars/gkxk/bilibili?style=flat-square&labelColor=343b41) |
 
 
-# Static works
-<img src="https://d2ekywz288hemq.cloudfront.net/im/bilibili_profile/bilibili_profile_gkxk.png" width="30%" style="height: 100px; object-fit:cover;"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/bilibili_profile/bilibili_profile_114514.png" width="30%" style="height: 100px; object-fit:cover;"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/bilibili_profile/bilibili_profile_海州拌饭.png" width="30%" style="height: 100px; object-fit: cover;"></img>
+<!-- # Static works -->
+<!-- <img src="https://d2ekywz288hemq.cloudfront.net/im/bilibili_profile/bilibili_profile_gkxk.png" width="30%" style="height: 100px; object-fit:cover;"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/bilibili_profile/bilibili_profile_114514.png" width="30%" style="height: 100px; object-fit:cover;"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/bilibili_profile/bilibili_profile_海州拌饭.png" width="30%" style="height: 100px; object-fit: cover;"></img> -->
 
-check [my blog](https://gkxk.github.io/2023/04/19/public/analysis%20gallery) for full gallery
+<!-- check [my blog](https://gkxk.github.io/2023/04/19/public/analysis%20gallery) for full gallery -->
 
 # Badge
 [![](https://readme-stats.clckblog.space/api?username=gkxk&count_private=true&theme=city_lights&bg_color=333333&title_color=00a4db&text_color=cccccc&border_color=cccccc)](https://github.com/gkxk)
