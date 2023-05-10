@@ -11,13 +11,13 @@ It is prefered that you call me "gkxk"(randomly generated id code), cause I set 
 
 
 # Repos
-| repo                                                   | description                                                                                                                                                                     |
-| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [bilibili_data](https://github.com/gkxk/bilibili_data) | I offer bilibili data as service, anyone can use it to do their own analysis<br>![](https://img.shields.io/github/stars/gkxk/bilibili_data?style=flat-square&labelColor=343b41) |
+| repo                                         | description                                                                                                                    |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| [bilibili](https://github.com/gkxk/bilibili) | analysis projects about bilibili<br>![](https://img.shields.io/github/stars/gkxk/bilibili?style=flat-square&labelColor=343b41) |
 
 
 # Static works
-<img src="https://www.geckoboard.com/uploads/Sales-YTD-dashboard-example-1efebb.png" width="30%"></img> <img src="https://flowingdata.com/wp-content/uploads/2022/09/data-design.png" width="30%"></img> <img src="https://www.splunk.com/content/dam/splunk-blogs/images/en_us/2021/04/dash_ga_healthcare.jpg" width="30%"></img>
+<img src="https://d2ekywz288hemq.cloudfront.net/im/bilibili_profile/bilibili_profile_gkxk.png" width="30%" style="height: 100px; object-fit:cover;"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/bilibili_profile/bilibili_profile_114514.png" width="30%" style="height: 100px; object-fit:cover;"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/bilibili_profile/bilibili_profile_海州拌饭.png" width="30%" style="height: 100px; object-fit: cover;"></img>
 
 check [my blog](https://gkxk.github.io/2023/04/19/public/analysis%20gallery) for full gallery
 
