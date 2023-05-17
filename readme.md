@@ -22,7 +22,7 @@ It is prefered that you call me "gkxk"(randomly generated id code), cause I set 
 # 3. Public products
 | category   | description                                                                     |
 | ---------- | ------------------------------------------------------------------------------- |
-| webapp     | <ul><li>[bilibili/profile_generator](/app/bilibili/profile_generator) <br><img class="repo_count" src="https://img.shields.io/github/stars/gkxk/bilibili?style=flat-square&labelColor=343b41"/></li></ul> |
+| webapp     | <ul><li>[bilibili/profile_generator](/app/bilibili/profile_generator)</li></ul> |
 | browser extension |
 | api        |
 
