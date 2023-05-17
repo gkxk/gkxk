@@ -1,6 +1,6 @@
 
 
-# Intro
+# 1. Intro
 Hello to every friend around the globe.   
 I position myself as a data engineer, who can do everything related in data collection, processing and presentation.
 
@@ -11,17 +11,19 @@ It is prefered that you call me "gkxk"(randomly generated id code), cause I set 
 <!-- set max-width: 200px -->
 <img  src="https://readme-stats.clckblog.space/api?username=gkxk&count_private=true&theme=city_lights&bg_color=333333&title_color=00a4db&text_color=cccccc&border_color=cccccc" style="max-width: 300px;">
 
-# Recent status
+# 2. Recent status
 - I am considering looking for a remote job, I would be very grateful if someone could offer me the opportunity.(2023-04-12)
-- The "xxx_data series" requires much efforts, and I'm working on writing the relevant code to implement them.(2023-04-12)
+- I am on my way to offer more api, more webapps, and more browser extensions.(2023-05-17)
+
+<!-- - The "xxx_data series" requires much efforts, and I'm working on writing the relevant code to implement them.(2023-04-12) -->
 <!-- - I am planning to build up my [3d version blog](https://github.com/gkxk/3d), to complement the [2d version](https://gkxk.github.io).(2023-04-12) -->
 
 
-# Public products
+# 3. Public products
 | category   | description                                                                     |
 | ---------- | ------------------------------------------------------------------------------- |
 | webapp     | <ul><li>[bilibili/profile_generator](/app/bilibili/profile_generator) <br><img class="repo_count" src="https://img.shields.io/github/stars/gkxk/bilibili?style=flat-square&labelColor=343b41"/></li></ul> |
-| extensions |
+| browser extension |
 | api        |
 
 
