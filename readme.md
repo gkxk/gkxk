@@ -20,9 +20,9 @@ It is prefered that you call me "gkxk"(randomly generated id code), cause I set 
 
 
 # 3. Public products
-| information source | description                                                            |
-| ------------------ | ---------------------------------------------------------------------- |
-| bilibili           | <ul><li>[profile_generator](https://gkxk.github.io/app/bilibili/profile_generator)</li></ul> |
+| target   | api | extension | app                                                                        |
+| -------- | --- | --------- | -------------------------------------------------------------------------- |
+| bilibili |     |           | [profile generator](https://gkxk.github.io/app/bilibili/profile_generator) |
 
 
 <!-- | by site  | <ul><li>[bilibili](https://github.com/gkxk/bilibili) <br><img class="repo_count" src="https://img.shields.io/github/stars/gkxk/bilibili?style=flat-square&labelColor=343b41"/></li><li>[v2ex](https://github.com/gkxk/v2ex) <br><img class="repo_count" src="https://img.shields.io/github/stars/gkxk/v2ex?style=flat-square&labelColor=343b41"/></li></ul> | -->
