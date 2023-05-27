@@ -29,7 +29,7 @@ It is prefered that you call me "gkxk"(randomly generated id code), cause I set 
 
 
 # 3. Services/Business
-<img src="https://d2ekywz288hemq.cloudfront.net/im/hexo3d.png" width="30%" style="height: 100px; object-fit:cover;"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/cloud.png" width="30%" style="height: 100px; object-fit:cover;"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/bilibili_profile/bilibili_profile_海州拌饭.png" width="30%" style="height: 100px; object-fit: cover;"></img>
+<img src="https://d2ekywz288hemq.cloudfront.net/im/hexo3d.png" height="100px"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/cloud.png" height="100px"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/bilibili_profile/bilibili_profile_海州拌饭.png" height="100px"></img>
 
 - see details on [**my blog**](https://gkxk.github.io/2023/02/15/public/services)
 
