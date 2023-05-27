@@ -19,17 +19,19 @@ It is prefered that you call me "gkxk"(randomly generated id code), cause I set 
 <!-- - I am planning to build up my [3d version blog](https://github.com/gkxk/3d), to complement the [2d version](https://gkxk.github.io).(2023-04-12) -->
 
 
-# 3. Public products
-| target   | api | extension | app                                                                        |
-| -------- | --- | --------- | -------------------------------------------------------------------------- |
-| bilibili |     |           | [profile generator](https://gkxk.github.io/app/bilibili/profile_generator) |
+<!-- # 3. Public products -->
+<!-- | target   | api | extension | app                                                                        | -->
+<!-- | -------- | --- | --------- | -------------------------------------------------------------------------- | -->
+<!-- | bilibili |     |           | [profile generator](https://gkxk.github.io/app/bilibili/profile_generator) | -->
 
 
 <!-- | by site  | <ul><li>[bilibili](https://github.com/gkxk/bilibili) <br><img class="repo_count" src="https://img.shields.io/github/stars/gkxk/bilibili?style=flat-square&labelColor=343b41"/></li><li>[v2ex](https://github.com/gkxk/v2ex) <br><img class="repo_count" src="https://img.shields.io/github/stars/gkxk/v2ex?style=flat-square&labelColor=343b41"/></li></ul> | -->
 
 
-<!-- # Static works -->
-<!-- <img src="https://d2ekywz288hemq.cloudfront.net/im/bilibili_profile/bilibili_profile_gkxk.png" width="30%" style="height: 100px; object-fit:cover;"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/bilibili_profile/bilibili_profile_114514.png" width="30%" style="height: 100px; object-fit:cover;"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/bilibili_profile/bilibili_profile_海州拌饭.png" width="30%" style="height: 100px; object-fit: cover;"></img> -->
+# 3. Services/Business
+<img src="https://d2ekywz288hemq.cloudfront.net/im/hexo3d.png" width="30%" style="height: 100px; object-fit:cover;"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/cloud.png" width="30%" style="height: 100px; object-fit:cover;"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/bilibili_profile/bilibili_profile_海州拌饭.png" width="30%" style="height: 100px; object-fit: cover;"></img>
+
+- see details on [**my blog**](https://gkxk.github.io/2023/02/15/public/services)
 
 <!-- check [my blog](https://gkxk.github.io/2023/04/19/public/analysis%20gallery) for full gallery -->
 
