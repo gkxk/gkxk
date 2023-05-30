@@ -13,7 +13,7 @@ It is prefered that you call me "gkxk"(randomly generated id code), cause I set 
 
 # 2. Recent status
 - I am considering looking for a remote job, I would be very grateful if someone could offer me the opportunity.(2023-04-12)
-- I am on my way to offer more api, more webapps, and more browser extensions.(2023-05-17)
+- I am on my way to offer ~~more api,~~ more webapps, and more browser extensions.(2023-05-17)
 
 <!-- - The "xxx_data series" requires much efforts, and I'm working on writing the relevant code to implement them.(2023-04-12) -->
 <!-- - I am planning to build up my [3d version blog](https://github.com/gkxk/3d), to complement the [2d version](https://gkxk.github.io).(2023-04-12) -->
@@ -31,8 +31,9 @@ It is prefered that you call me "gkxk"(randomly generated id code), cause I set 
 # 3. Services/Business
 <img src="https://d2ekywz288hemq.cloudfront.net/im/hexo3d.png" height="100px"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/cloud.png" height="100px"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/bilibili_profile/bilibili_profile_海州拌饭.png" height="100px"></img>
 
-- see details on [**my blog**](https://gkxk.github.io/2023/02/15/public/services)
+- see details on [**chrome webstore**](https://chrome.google.com/webstore/category/extensions) and [**google play store**](https://play.google.com/store/apps)
 
+<!-- - see details on [**my blog**](https://gkxk.github.io/2023/02/15/public/services) -->
 <!-- check [my blog](https://gkxk.github.io/2023/04/19/public/analysis%20gallery) for full gallery -->
 
 
