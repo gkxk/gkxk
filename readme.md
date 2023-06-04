@@ -2,7 +2,7 @@
 
 # 1. Intro
 Hello to every friend around the globe.   
-I position myself as an information engineer, who can do everything related in information collection, processing and presentation.
+I position myself as an indie developer, who can do everything related in information collection, processing and presentation.
 
 It is prefered that you call me "gkxk"(randomly generated id code), cause I set "mechanical ascension and abandoning my flesh" as my long-term goal.
 
