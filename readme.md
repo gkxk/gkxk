@@ -47,4 +47,3 @@ It is prefered that you call me "gkxk"(randomly generated id code), cause I set 
 - [telegram](https://t.me/sxlgkxk) is recommended
 - [email](mailto:sxlgkxk@gmail.com) is ok too -->
 
-
