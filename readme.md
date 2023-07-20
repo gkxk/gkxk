@@ -11,7 +11,7 @@ It is prefered that you call me "gkxk"(randomly generated id code), cause I set 
 <!-- set max-width: 200px -->
 <!-- <img src="https://readme-stats.clckblog.space/api?username=gkxk&count_private=true&theme=city_lights&bg_color=333333&title_color=00a4db&text_color=cccccc&border_color=cccccc" style="max-width: 300px !important;"> -->
 
-<img src="https://d2ekywz288hemq.cloudfront.net/im/github/future_flowchart.svg?a" width="200">
+<img src="https://d2ekywz288hemq.cloudfront.net/im/github/future_flowchart.svg" width="200">
 
 # 2. Recent status
 - I am on my way to offer more webapps. (2023-05-17)
@@ -35,7 +35,7 @@ It is prefered that you call me "gkxk"(randomly generated id code), cause I set 
 # 3. Services/Business
 <img src="https://d2ekywz288hemq.cloudfront.net/im/hexo3d.png" height="100px"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/cloud.png" height="100px"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/bilibili_profile/bilibili_profile_海州拌饭.png" height="100px"></img>
 
-- see details on [**my blog**](https://gkxk.github.io)
+- see details on [**my blog**](https://gkxk.github.io/app)
 
 <!-- - see details on [**chrome webstore**](https://chrome.google.com/webstore/category/extensions) and [**google play store**](https://play.google.com/store/apps) -->
 <!-- check [my blog](https://gkxk.github.io/2023/04/19/public/analysis%20gallery) for full gallery -->
