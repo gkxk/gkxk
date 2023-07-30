@@ -4,14 +4,14 @@
 Hello to every friend around the globe.   
 I position myself as an information provider, who can do everything related in information collection, processing and presentation.
 
-It is prefered that you call me "gkxk"(randomly generated id code), cause I set "mechanical ascension and abandoning my flesh" as my long-term goal.
+<!-- It is prefered that you call me "gkxk"(randomly generated id code), cause I set "mechanical ascension and abandoning my flesh" as my long-term goal. -->
 
 <!-- [![](https://readme-stats.clckblog.space/api?username=gkxk&count_private=true&theme=city_lights&bg_color=333333&title_color=00a4db&text_color=cccccc&border_color=cccccc)](https://github.com/gkxk) -->
 
 <!-- set max-width: 200px -->
 <!-- <img src="https://readme-stats.clckblog.space/api?username=gkxk&count_private=true&theme=city_lights&bg_color=333333&title_color=00a4db&text_color=cccccc&border_color=cccccc" style="max-width: 300px !important;"> -->
 
-<img src="https://d2ekywz288hemq.cloudfront.net/im/github/future_flowchart.svg?a" width="200">
+<!-- <img src="https://d2ekywz288hemq.cloudfront.net/im/github/future_flowchart.svg?a" width="200"> -->
 
 # 2. Recent status
 - I am on my way to offer more information. (2023-07-25)
