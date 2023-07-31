@@ -15,6 +15,7 @@ I position myself as an information provider, who can do everything related in i
 
 # 2. Recent status
 - I am on my way to offer more information. (2023-07-25)
+- I am improving the competitiveness of my resume, to find a remote job. (2023-08-01)
 
 <!-- - I am on my way to offer more webapps. (2023-05-17) -->
 <!-- , and more browser extensions -->
