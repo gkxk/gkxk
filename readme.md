@@ -2,7 +2,7 @@
 
 # 1. Intro
 Hello to every friend around the globe.   
-I position myself as an information provider, who can do everything related in information collection, processing and presentation.
+I position myself as an indie developer, who can do everything related in information collection, processing and presentation.
 
 <!-- It is prefered that you call me "gkxk"(randomly generated id code), cause I set "mechanical ascension and abandoning my flesh" as my long-term goal. -->
 
@@ -14,7 +14,7 @@ I position myself as an information provider, who can do everything related in i
 <!-- <img src="https://d2ekywz288hemq.cloudfront.net/im/github/future_flowchart.svg?a" width="200"> -->
 
 # 2. Recent status
-- I am on my way to offer more information. (2023-07-25)
+- I am on my way to offer more information and webapps. (2023-07-25)
 - I am improving the competitiveness of my resume, to find a remote job. (2023-08-01)
 
 <!-- - I am on my way to offer more webapps. (2023-05-17) -->
