@@ -14,8 +14,9 @@ I position myself as a remote developer, who can do everything related in inform
 <!-- <img src="https://d2ekywz288hemq.cloudfront.net/im/github/future_flowchart.svg?a" width="200"> -->
 
 # 2. Recent status
-- I am on my way to offer more information and webapps. (2023-07-25)
-- I am improving the competitiveness of my resume, to find a remote job. (2023-08-01)
+<!-- - I am on my way to offer more information and webapps. (2023-07-25) -->
+<!-- - I am improving the competitiveness of my resume, to find a remote job. (2023-08-01) -->
+- I am on my way to put more content on [r/gkxk](https://www.reddit.com/r/gkxk), and on [gumroad](https://gkxk.gumroad.com). (2023-09-15)
 
 <!-- - I am on my way to offer more webapps. (2023-05-17) -->
 <!-- , and more browser extensions -->
