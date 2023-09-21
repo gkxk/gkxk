@@ -1,8 +1,9 @@
 
 
-# 1. Intro
 Hello to every friend around the globe.   
-I position myself as a remote developer, who can do everything related in information collection, processing and presentation.
+I position myself as a software engineer, who can do everything related in information collection, processing and presentation.
+
+<br>
 
 <!-- It is prefered that you call me "gkxk"(randomly generated id code), cause I set "mechanical ascension and abandoning my flesh" as my long-term goal. -->
 
@@ -13,10 +14,10 @@ I position myself as a remote developer, who can do everything related in inform
 
 <!-- <img src="https://d2ekywz288hemq.cloudfront.net/im/github/future_flowchart.svg?a" width="200"> -->
 
-# 2. Recent status
+<!-- Recent status: -->
 <!-- - I am on my way to offer more information and webapps. (2023-07-25) -->
 <!-- - I am improving the competitiveness of my resume, to find a remote job. (2023-08-01) -->
-- I am on my way to put more content on [r/gkxk](https://www.reddit.com/r/gkxk), and on [gumroad](https://gkxk.gumroad.com). (2023-09-15)
+<!-- - I am on my way to put more content on [r/gkxk](https://www.reddit.com/r/gkxk), and on [gumroad](https://gkxk.gumroad.com). (2023-09-15) -->
 
 <!-- - I am on my way to offer more webapps. (2023-05-17) -->
 <!-- , and more browser extensions -->
@@ -35,10 +36,11 @@ I position myself as a remote developer, who can do everything related in inform
 <!-- | by site  | <ul><li>[bilibili](https://github.com/gkxk/bilibili) <br><img class="repo_count" src="https://img.shields.io/github/stars/gkxk/bilibili?style=flat-square&labelColor=343b41"/></li><li>[v2ex](https://github.com/gkxk/v2ex) <br><img class="repo_count" src="https://img.shields.io/github/stars/gkxk/v2ex?style=flat-square&labelColor=343b41"/></li></ul> | -->
 
 
-# 3. Services/Business
+products (full list on [**my blog**](https://gkxk.github.io/app)):  
+
 <img src="https://d2ekywz288hemq.cloudfront.net/im/hexo3d.png" height="100px"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/cloud.png" height="100px"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/bilibili_profile/bilibili_profile_海州拌饭.png" height="100px"></img>
 
-- see details on [**my blog**](https://gkxk.github.io/app)
+<!-- - see details on [**my blog**](https://gkxk.github.io/app) -->
 
 <!-- - see details on [**chrome webstore**](https://chrome.google.com/webstore/category/extensions) and [**google play store**](https://play.google.com/store/apps) -->
 <!-- check [my blog](https://gkxk.github.io/2023/04/19/public/analysis%20gallery) for full gallery -->
