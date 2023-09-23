@@ -1,7 +1,7 @@
 
 
-Hello to every friend around the globe.   
-I position myself as a software engineer, who can do everything related in information collection, processing and presentation.
+Hello, I'm gkxk, a software engineer.   
+I mainly focus on information collection, processing and presentation.
 
 <br>
 
