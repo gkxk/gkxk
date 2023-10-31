@@ -3,8 +3,6 @@
 Hello, I'm gkxk, a software engineer.   
 I mainly focus on information collection, processing and presentation.
 
-<br>
-
 <!-- It is prefered that you call me "gkxk"(randomly generated id code), cause I set "mechanical ascension and abandoning my flesh" as my long-term goal. -->
 
 <!-- [![](https://readme-stats.clckblog.space/api?username=gkxk&count_private=true&theme=city_lights&bg_color=333333&title_color=00a4db&text_color=cccccc&border_color=cccccc)](https://github.com/gkxk) -->
