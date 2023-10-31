@@ -36,11 +36,11 @@ I mainly focus on information collection, processing and presentation.
 <!-- | by site  | <ul><li>[bilibili](https://github.com/gkxk/bilibili) <br><img class="repo_count" src="https://img.shields.io/github/stars/gkxk/bilibili?style=flat-square&labelColor=343b41"/></li><li>[v2ex](https://github.com/gkxk/v2ex) <br><img class="repo_count" src="https://img.shields.io/github/stars/gkxk/v2ex?style=flat-square&labelColor=343b41"/></li></ul> | -->
 
 
-products (full list on [**my blog**](https://gkxk.github.io/app)):  
+<!-- products (full list on [**my blog**](https://gkxk.github.io/about/output)):   -->
 
 <img src="https://d2ekywz288hemq.cloudfront.net/im/hexo3d.png" height="100px"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/cloud.png" height="100px"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/bilibili_profile/bilibili_profile_海州拌饭.png" height="100px"></img>
 
-<!-- - see details on [**my blog**](https://gkxk.github.io/app) -->
+more details on [my blog](https://gkxk.github.io/about/output)
 
 <!-- - see details on [**chrome webstore**](https://chrome.google.com/webstore/category/extensions) and [**google play store**](https://play.google.com/store/apps) -->
 <!-- check [my blog](https://gkxk.github.io/2023/04/19/public/analysis%20gallery) for full gallery -->
