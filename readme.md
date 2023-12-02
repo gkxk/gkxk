@@ -38,7 +38,7 @@ I mainly focus on information collection, processing and presentation.
 
 <img src="https://d2ekywz288hemq.cloudfront.net/im/hexo3d.png" height="100px"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/cloud.png" height="100px"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/bilibili_profile/bilibili_profile_海州拌饭.png" height="100px"></img>
 
-more details on [my blog](https://gkxk.github.io/about/output)
+more details on [my blog](https://gkxk.github.io)
 
 <!-- - see details on [**chrome webstore**](https://chrome.google.com/webstore/category/extensions) and [**google play store**](https://play.google.com/store/apps) -->
 <!-- check [my blog](https://gkxk.github.io/2023/04/19/public/analysis%20gallery) for full gallery -->
