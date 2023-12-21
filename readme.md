@@ -1,6 +1,7 @@
 Hello, I'm gkxk, a software engineer. I am able to:
-- 1, collect information and offer search tools
-- 2, make web3d games with plugin system
+- make web3d games with plugin system
+
+<!-- collect information and offer search tools -->
 
 below are some of my works, full list on [my blog](https://gkxk.github.io)
 
