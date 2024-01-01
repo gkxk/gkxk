@@ -1,4 +1,4 @@
-Hello, I'm gkxk, a software engineer. I am able to:
+Hello, I'm gkxk, an indiegame developer. I am able to:
 - make web3d games with plugin system
 
 <!-- collect information and offer search tools -->
