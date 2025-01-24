@@ -1,0 +1,7 @@
+#!/usr/bin/fish
+
+paste.exe > /tmp/vimlocal
+
+vim /tmp/vimlocal
+
+cat /tmp/vimlocal|clip.exe

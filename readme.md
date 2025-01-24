@@ -1,8 +1,24 @@
-Hello, I'm gkxk, an indiegame developer. I am able to:
-- make web3d games with plugin system
 
-<!-- collect information and offer search tools -->
+1. [bin(1)](https://github.com/gkxk/gkxk/bin):
+	- e: edit clipboard
+2. [browserscript(3)](https://github.com/gkxk/gkxk/browserscript):
+	- Any site into PWA
+	- Highlight words on page
+	- Clip text to server
+3. [config(3)](https://github.com/gkxk/gkxk/config):
+	- fish
+	- neovim
+	- tmux
+4. [solution(3)](https://github.com/gkxk/gkxk/solution):
+	- engineer
+	- trader
+	- play
 
-<!-- below are some of my works, full list on [my blog](https://gkxk.github.io) -->
 
-<!-- <img src="https://d2ekywz288hemq.cloudfront.net/im/hexo3d.png" height="100px"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/cloud.png" height="100px"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/bilibili_profile/bilibili_profile_海州拌饭.png" height="100px"></img> -->
+
+
+
+
+
+
+
